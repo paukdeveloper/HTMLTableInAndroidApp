@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HTMLTableInAndroidApp</string>
+    <string name="table_row">id: %1$s reg: %2$s name: %3$s</string>
+</resources>
